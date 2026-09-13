@@ -32,7 +32,7 @@ export default function Register() {
     <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: 20, background: 'radial-gradient(ellipse at top, #1a0a3a 0%, var(--bg) 60%)' }}>
       <div style={{ width: '100%', maxWidth: 480 }}>
         <div style={{ textAlign: 'center', marginBottom: 32 }}>
-          <div style={{ width: 56, height: 56, borderRadius: 16, background: 'var(--grad)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 900, fontSize: 24, margin: '0 auto 16px' }}>B</div>
+          <img src="/logo.jpeg" alt="BridgeX" style={{ height: 48, borderRadius: 10, margin: '0 auto 12px', display: 'block' }} />
           <h1 style={{ fontSize: 28, fontWeight: 800 }}>Join BridgeX</h1>
           <p style={{ color: 'var(--muted)', marginTop: 6 }}>Bridging real problems with real people</p>
         </div>
